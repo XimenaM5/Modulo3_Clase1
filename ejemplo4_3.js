@@ -30,10 +30,10 @@ if (montoDeposito>50000) {
     alert ("Felicitaciones su deposito es de nivel bronce")
 }
 
-/* if (nomCliente=="Javier"||nomCliente=="javier") {
+if (nomCliente=="Javier"||nomCliente=="javier") {
     console.log ("Entro al if")
     bono = (montoDeposito*.05)
-} */
+} 
     if (numCuenta===123456) {
         console.log ("Entro al if")
         bono = (montoDeposito*.05)
